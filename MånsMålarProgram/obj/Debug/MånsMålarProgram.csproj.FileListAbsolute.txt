@@ -1,0 +1,10 @@
+C:\Users\mans.jildestrand\Desktop\paint-application-csharp-main\bin\Debug\PaintApplicationAssignment.exe.config
+C:\Users\mans.jildestrand\Desktop\paint-application-csharp-main\bin\Debug\PaintApplicationAssignment.exe
+C:\Users\mans.jildestrand\Desktop\paint-application-csharp-main\bin\Debug\PaintApplicationAssignment.pdb
+C:\Users\mans.jildestrand\Desktop\paint-application-csharp-main\obj\Debug\MånsMålarProgram.csprojAssemblyReference.cache
+C:\Users\mans.jildestrand\Desktop\paint-application-csharp-main\obj\Debug\PaintApplicationAssignment.Form1.resources
+C:\Users\mans.jildestrand\Desktop\paint-application-csharp-main\obj\Debug\PaintApplicationAssignment.Properties.Resources.resources
+C:\Users\mans.jildestrand\Desktop\paint-application-csharp-main\obj\Debug\MånsMålarProgram.csproj.GenerateResource.cache
+C:\Users\mans.jildestrand\Desktop\paint-application-csharp-main\obj\Debug\MånsMålarProgram.csproj.CoreCompileInputs.cache
+C:\Users\mans.jildestrand\Desktop\paint-application-csharp-main\obj\Debug\PaintApplicationAssignment.exe
+C:\Users\mans.jildestrand\Desktop\paint-application-csharp-main\obj\Debug\PaintApplicationAssignment.pdb
